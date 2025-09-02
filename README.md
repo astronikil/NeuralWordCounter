@@ -5,5 +5,4 @@ the feasibility of a unified CNN model that automatically detects words and figu
   the document.
 </p>
 <h2> How to use </h2>
-<p> The Jupyter notebook in <code>./notebooks/</code> contains the working version of the model. The pretrained weights 
-are in the <code>./model/</code></p>
+<p> Download the Jupyter notebook <code>lengthcheck.ipynb</code> in <code>./notebooks/</code>. Load it via Google Colab to run. It should load this repository during the run. The weights for the pretrained CNN model are in the <code>./model/</code></p>
